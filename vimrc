@@ -31,6 +31,7 @@ Bundle 'bling/vim-airline'
 Bundle 'plasticboy/vim-markdown'
 Bundle 'editorconfig/editorconfig-vim'
 Bundle 'ap/vim-css-color'
+Bundle 'airblade/vim-gitgutter'
 
 filetype plugin indent on     " required!
 
