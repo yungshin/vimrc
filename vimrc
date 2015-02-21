@@ -30,6 +30,7 @@ Bundle 'tpope/vim-fugitive'
 Bundle 'bling/vim-airline'
 Bundle 'plasticboy/vim-markdown'
 Bundle 'editorconfig/editorconfig-vim'
+Bundle 'ap/vim-css-color'
 
 filetype plugin indent on     " required!
 
