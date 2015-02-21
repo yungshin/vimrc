@@ -32,6 +32,7 @@ Bundle 'plasticboy/vim-markdown'
 Bundle 'editorconfig/editorconfig-vim'
 Bundle 'ap/vim-css-color'
 Bundle 'airblade/vim-gitgutter'
+Bundle 'mattn/emmet-vim'
 
 filetype plugin indent on     " required!
 
