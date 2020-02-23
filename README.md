@@ -12,4 +12,4 @@ My own Vim configuratrion and module which I used.
 
 		ln -s ~/.vim/vimrc ~/.vimrc
 
-4. Launch `vim`, run `:BundleInstall` (or `vim +BundleInstall +qall` for CLI lovers)
+4. Launch `vim`, run `:PluginInstall` (or `vim +PluginInstall +qall` for CLI lovers)
